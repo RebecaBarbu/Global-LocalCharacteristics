@@ -1,0 +1,317 @@
+================================================================================================
+car
+
+=====================================test1=====================================
+errorZ:1.2672 errorZ2:0.49
+eroare features:0.0030517features 1:195features 2:196
+eroare matched Scale:0.044
+eroare matched Orientation:0.094708
+eroare matched Location1:0.12909
+eroare matched Location2:0.12724
+eroare matched Metric:436.1625
+surfpoints count195-196
+=====================================test2=====================================
+errorZ:3.6136 errorZ2:1.5
+eroare features:0.0024012features 1:195features 2:166
+eroare matched Scale:0.10933
+eroare matched Orientation:0.038096
+eroare matched Location1:0.25331
+eroare matched Location2:0.26757
+eroare matched Metric:1149.5653
+surfpoints count195-166
+=====================================test3=====================================
+errorZ:6.5907 errorZ2:2.43
+eroare features:0.00077847features 1:195features 2:126
+eroare matched Scale:0.054667
+eroare matched Orientation:0.022338
+eroare matched Location1:0.79578
+eroare matched Location2:0.10378
+eroare matched Metric:1434.4767
+surfpoints count195-126
+=====================================test4=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+errorZ:7.5592 errorZ2:2.88
+eroare features:0.00043939features 1:195features 2:120
+eroare matched Scale:0.065333
+eroare matched Orientation:0.023597
+eroare matched Location1:0.23084
+eroare matched Location2:0.11005
+eroare matched Metric:1956.4314
+surfpoints count195-120
+=====================================test5=====================================
+errorZ:7.8053 errorZ2:2.98
+eroare features:0.00034062features 1:195features 2:97
+eroare matched Scale:0.030667
+eroare matched Orientation:0.01336
+eroare matched Location1:0.12096
+eroare matched Location2:0.063668
+eroare matched Metric:1573.2527
+surfpoints count195-97
+
+====================================================================================================
+Flowers
+
+=====================================test1=====================================
+errorZ:0.70555 errorZ2:0.21
+eroare features:0.0048969features 1:308features 2:311
+eroare matched Scale:0.052
+eroare matched Orientation:0.06256
+eroare matched Location1:0.17763
+eroare matched Location2:0.16333
+eroare matched Metric:347.0569
+surfpoints count308-311
+=====================================test2=====================================
+errorZ:1.996 errorZ2:0.71
+eroare features:0.004549features 1:308features 2:298
+eroare matched Scale:0.076
+eroare matched Orientation:0.19892
+eroare matched Location1:0.25287
+eroare matched Location2:0.2628
+eroare matched Metric:795.4564
+surfpoints count308-298
+=====================================test3=====================================
+errorZ:4.7121 errorZ2:1.77
+eroare features:0.0034186features 1:308features 2:270
+eroare matched Scale:0.1
+eroare matched Orientation:0.14096
+eroare matched Location1:1.2696
+eroare matched Location2:0.44921
+eroare matched Metric:1447.4313
+surfpoints count308-270
+=====================================test4=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+errorZ:8.1506 errorZ2:3.06
+eroare features:0.0022849features 1:308features 2:239
+eroare matched Scale:0.082667
+eroare matched Orientation:0.050398
+eroare matched Location1:0.29473
+eroare matched Location2:0.28773
+eroare matched Metric:1936.03
+surfpoints count308-239
+=====================================test5=====================================
+errorZ:11.9698 errorZ2:4.5
+eroare features:0.0016934features 1:308features 2:196
+eroare matched Scale:0.072
+eroare matched Orientation:0.038039
+eroare matched Location1:0.27654
+eroare matched Location2:0.22428
+eroare matched Metric:2227.1768
+surfpoints count308-196
+
+=====================================================================================================
+Lena
+
+=====================================test1=====================================
+errorZ:1.0179 errorZ2:0.47
+eroare features:0.0020193features 1:129features 2:125
+eroare matched Scale:0.034667
+eroare matched Orientation:0.021633
+eroare matched Location1:0.077167
+eroare matched Location2:0.11781
+eroare matched Metric:146.7861
+surfpoints count129-125
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+errorZ:2.222 errorZ2:1.09
+eroare features:0.001204features 1:129features 2:117
+eroare matched Scale:0.062667
+eroare matched Orientation:0.029977
+eroare matched Location1:0.13581
+eroare matched Location2:0.20565
+eroare matched Metric:485.4573
+surfpoints count129-117
+=====================================test3=====================================
+errorZ:3.9568 errorZ2:1.99
+eroare features:0.0009952features 1:129features 2:88
+eroare matched Scale:0.06
+eroare matched Orientation:0.15021
+eroare matched Location1:0.1418
+eroare matched Location2:0.17617
+eroare matched Metric:759.9696
+surfpoints count129-88
+=====================================test4=====================================
+errorZ:8.2021 errorZ2:3.91
+eroare features:0.0004416features 1:129features 2:69
+eroare matched Scale:0.044
+eroare matched Orientation:0.013852
+eroare matched Location1:0.13273
+eroare matched Location2:0.13715
+eroare matched Metric:759.9732
+surfpoints count129-69
+=====================================test5=====================================
+errorZ:12.8601 errorZ2:6.02
+eroare features:0.00012553features 1:129features 2:49
+eroare matched Scale:0.037333
+eroare matched Orientation:0.073464
+eroare matched Location1:0.10789
+eroare matched Location2:0.080926
+eroare matched Metric:711.7092
+surfpoints count129-49
+
+=====================================================================================================
+Lighthouse
+
+=====================================test1=====================================
+errorZ:2.1808 errorZ2:0.75
+eroare features:0.0013333features 1:98features 2:89
+eroare matched Scale:0.034667
+eroare matched Orientation:0.090067
+eroare matched Location1:0.1059
+eroare matched Location2:0.12545
+eroare matched Metric:183.4105
+surfpoints count98-89
+=====================================test2=====================================
+errorZ:7.2061 errorZ2:2.27
+eroare features:0.0011617features 1:98features 2:68
+eroare matched Scale:0.029333
+eroare matched Orientation:0.018905
+eroare matched Location1:0.056728
+eroare matched Location2:0.11874
+eroare matched Metric:474.8248
+surfpoints count98-68
+=====================================test3=====================================
+errorZ:10.5821 errorZ2:3.26
+eroare features:0.00071953features 1:98features 2:52
+eroare matched Scale:0.014667
+eroare matched Orientation:0.015818
+eroare matched Location1:0.039416
+eroare matched Location2:0.071944
+eroare matched Metric:601.9913
+surfpoints count98-52
+=====================================test4=====================================
+errorZ:13.5812 errorZ2:4.21
+eroare features:0.00042308features 1:98features 2:47
+eroare matched Scale:0.012
+eroare matched Orientation:0.010557
+eroare matched Location1:0.050229
+eroare matched Location2:0.07097
+eroare matched Metric:635.2068
+surfpoints count98-47
+=====================================test5=====================================
+errorZ:15.8453 errorZ2:5.02
+eroare features:0.00031238features 1:98features 2:38
+eroare matched Scale:0.0093333
+eroare matched Orientation:0.0074748
+eroare matched Location1:0.032491
+eroare matched Location2:0.063218
+eroare matched Metric:417.8593
+surfpoints count98-38
+
+====================================================================================================
+Pisica
+
+=====================================test1=====================================
+errorZ:1.4548 errorZ2:0.61
+eroare features:0.001939features 1:154features 2:153
+eroare matched Scale:0.012
+eroare matched Orientation:0.019888
+eroare matched Location1:0.081145
+eroare matched Location2:0.058043
+eroare matched Metric:236.7231
+surfpoints count154-153
+=====================================test2=====================================
+errorZ:6.0218 errorZ2:2.34
+eroare features:0.0016629features 1:154features 2:143
+eroare matched Scale:0.081333
+eroare matched Orientation:0.032416
+eroare matched Location1:0.72944
+eroare matched Location2:0.19837
+eroare matched Metric:960.911
+surfpoints count154-143
+=====================================test3=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+Warning: Integer operands are required for colon operator when used as index. 
+errorZ:11.6744 errorZ2:4.3
+eroare features:0.0011651features 1:154features 2:120
+eroare matched Scale:0.061333
+eroare matched Orientation:0.061384
+eroare matched Location1:0.4608
+eroare matched Location2:0.48432
+eroare matched Metric:1549.52
+surfpoints count154-120
+=====================================test4=====================================
+errorZ:15.5886 errorZ2:5.42
+eroare features:0.00061863features 1:154features 2:102
+eroare matched Scale:0.050667
+eroare matched Orientation:0.016221
+eroare matched Location1:0.19056
+eroare matched Location2:0.13519
+eroare matched Metric:1435.8347
+surfpoints count154-102
+=====================================test5=====================================
+errorZ:16.3684 errorZ2:5.39
+eroare features:0.00049064features 1:154features 2:79
+eroare matched Scale:0.014667
+eroare matched Orientation:0.0069759
+eroare matched Location1:0.071001
+eroare matched Location2:0.08711
+eroare matched Metric:1074.6597
+surfpoints count154-79
+
+=============================================================================================================
+Pylon
+
+=====================================test1=====================================
+errorZ:0.59545 errorZ2:0.11
+eroare features:0.00017655features 1:58features 2:61
+eroare matched Scale:0.012
+eroare matched Orientation:0.040322
+eroare matched Location1:0.041044
+eroare matched Location2:0.034334
+eroare matched Metric:70.664
+surfpoints count58-61
+=====================================test2=====================================
+errorZ:1.1688 errorZ2:0.17
+eroare features:0.00023253features 1:58features 2:61
+eroare matched Scale:0.013333
+eroare matched Orientation:0.040604
+eroare matched Location1:0.03757
+eroare matched Location2:0.033426
+eroare matched Metric:67.8037
+surfpoints count58-61
+=====================================test3=====================================
+errorZ:1.5334 errorZ2:0.23
+eroare features:0.00028459features 1:58features 2:63
+eroare matched Scale:0.012
+eroare matched Orientation:0.041932
+eroare matched Location1:0.53792
+eroare matched Location2:0.30327
+eroare matched Metric:94.4525
+surfpoints count58-63
+=====================================test4=====================================
+errorZ:3.0218 errorZ2:0.43
+eroare features:0.00013559features 1:58features 2:59
+eroare matched Scale:0.013333
+eroare matched Orientation:0.04096
+eroare matched Location1:0.039098
+eroare matched Location2:0.032323
+eroare matched Metric:62.0774
+surfpoints count58-59
+=====================================test5=====================================
+errorZ:4.5293 errorZ2:0.68
+eroare features:0.00013665features 1:58features 2:67
+eroare matched Scale:0.004
+eroare matched Orientation:0.010748
+eroare matched Location1:0.030502
+eroare matched Location2:0.03266
+eroare matched Metric:85.2528
+surfpoints count58-67

@@ -1,0 +1,1110 @@
+    "Obiect=Car"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:195features 2:195
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count195-195
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -195| =0 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.13274 errorZ2:0.04
+eroare features:0.002602features 1:195features 2:196
+eroare matched Scale:0.032
+eroare matched Orientation:0.14434
+eroare matched Location1:0.077999
+eroare matched Location2:0.079889
+eroare matched Metric:105.5802
+surfpoints count195-196
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.04 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -196| =1 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+errorZ:1.1436 errorZ2:0.53
+eroare features:0.0033684features 1:195features 2:207
+eroare matched Scale:0
+eroare matched Orientation:0.00019361
+eroare matched Location1:0.00046158
+eroare matched Location2:0.0020631
+eroare matched Metric:5.9117
+surfpoints count195-207
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.53 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -207| =12 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:1.3984 errorZ2:0.55
+eroare features:0.0032203features 1:195features 2:203
+eroare matched Scale:0
+eroare matched Orientation:0.0007077
+eroare matched Location1:0.0007032
+eroare matched Location2:0.00022614
+eroare matched Metric:0.16531
+surfpoints count195-203
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.55 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -203| =8 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+errorZ:0.29723 errorZ2:0.16
+eroare features:0.0023628features 1:195features 2:194
+eroare matched Scale:0.025333
+eroare matched Orientation:0.14163
+eroare matched Location1:0.095411
+eroare matched Location2:0.074497
+eroare matched Metric:103.6922
+surfpoints count195-194
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.16 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -194| =1 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.3199 errorZ2:0.12
+eroare features:0.0027135features 1:195features 2:199
+eroare matched Scale:0.030667
+eroare matched Orientation:0.090554
+eroare matched Location1:0.28319
+eroare matched Location2:0.12534
+eroare matched Metric:132.4888
+surfpoints count195-199
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.12 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -199| =4 vs prag=50
+in regula
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+errorZ:2.1946 errorZ2:0.99
+eroare features:0.0028994features 1:195features 2:202
+eroare matched Scale:0.045333
+eroare matched Orientation:0.15929
+eroare matched Location1:0.28223
+eroare matched Location2:0.092793
+eroare matched Metric:571.0538
+surfpoints count195-202
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.99 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -202| =7 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:4.2489 errorZ2:1.81
+eroare features:0.0025008features 1:195features 2:208
+eroare matched Scale:0.064
+eroare matched Orientation:0.16561
+eroare matched Location1:0.15075
+eroare matched Location2:0.15729
+eroare matched Metric:1095.3781
+surfpoints count195-208
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.81 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -208| =13 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+errorZ:2.1946 errorZ2:0.99
+eroare features:0.0028994features 1:195features 2:202
+eroare matched Scale:0.045333
+eroare matched Orientation:0.15929
+eroare matched Location1:0.28223
+eroare matched Location2:0.092793
+eroare matched Metric:571.0538
+surfpoints count195-202
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.99 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -202| =7 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:4.2489 errorZ2:1.81
+eroare features:0.0025008features 1:195features 2:208
+eroare matched Scale:0.064
+eroare matched Orientation:0.16561
+eroare matched Location1:0.15075
+eroare matched Location2:0.15729
+eroare matched Metric:1095.3781
+surfpoints count195-208
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.81 vs prag=0.19> || scor_numar_caracteristici_locale: |195 -208| =13 vs prag=50
+fals
+    "Obiect=Flowers"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:308features 2:308
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count308-308
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -308| =0 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.25911 errorZ2:0.08
+eroare features:0.0047044features 1:308features 2:303
+eroare matched Scale:0.04
+eroare matched Orientation:0.11379
+eroare matched Location1:0.17293
+eroare matched Location2:0.17396
+eroare matched Metric:239.9356
+surfpoints count308-303
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.08 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -303| =5 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+errorZ:23.5633 errorZ2:8.66
+eroare features:0.004443features 1:308features 2:303
+eroare matched Scale:0.037333
+eroare matched Orientation:0.050241
+eroare matched Location1:0.1371
+eroare matched Location2:0.14493
+eroare matched Metric:199.287
+surfpoints count308-303
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=8.66 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -303| =5 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:12.9402 errorZ2:4.54
+eroare features:0.0035944features 1:308features 2:290
+eroare matched Scale:0.028
+eroare matched Orientation:0.049134
+eroare matched Location1:0.13359
+eroare matched Location2:0.13225
+eroare matched Metric:202.4344
+surfpoints count308-290
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=4.54 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -290| =18 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+errorZ:0.6046 errorZ2:0.16
+eroare features:0.0047583features 1:308features 2:310
+eroare matched Scale:0.029333
+eroare matched Orientation:0.035511
+eroare matched Location1:0.10693
+eroare matched Location2:0.10931
+eroare matched Metric:163.5234
+surfpoints count308-310
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.16 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -310| =2 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.32346 errorZ2:0.11
+eroare features:0.0047071features 1:308features 2:304
+eroare matched Scale:0.042667
+eroare matched Orientation:0.057751
+eroare matched Location1:0.16633
+eroare matched Location2:0.18229
+eroare matched Metric:276.9834
+surfpoints count308-304
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.11 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -304| =4 vs prag=50
+in regula
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+errorZ:1.5778 errorZ2:0.6
+eroare features:0.0044211features 1:308features 2:306
+eroare matched Scale:0.066667
+eroare matched Orientation:0.082753
+eroare matched Location1:0.29203
+eroare matched Location2:0.23323
+eroare matched Metric:920.5366
+surfpoints count308-306
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.6 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -306| =2 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:2.9629 errorZ2:1.3
+eroare features:0.0039462features 1:308features 2:287
+eroare matched Scale:0.11067
+eroare matched Orientation:0.10255
+eroare matched Location1:0.63811
+eroare matched Location2:0.37691
+eroare matched Metric:2024.4147
+surfpoints count308-287
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.3 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -287| =21 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+errorZ:1.5778 errorZ2:0.6
+eroare features:0.0044211features 1:308features 2:306
+eroare matched Scale:0.066667
+eroare matched Orientation:0.082753
+eroare matched Location1:0.29203
+eroare matched Location2:0.23323
+eroare matched Metric:920.5366
+surfpoints count308-306
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.6 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -306| =2 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:2.9629 errorZ2:1.3
+eroare features:0.0039462features 1:308features 2:287
+eroare matched Scale:0.11067
+eroare matched Orientation:0.10255
+eroare matched Location1:0.63811
+eroare matched Location2:0.37691
+eroare matched Metric:2024.4147
+surfpoints count308-287
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.3 vs prag=0.2> || scor_numar_caracteristici_locale: |308 -287| =21 vs prag=50
+fals
+    "Obiect=Lena"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:129features 2:129
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count129-129
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -129| =0 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.14467 errorZ2:0.09
+eroare features:0.0015121features 1:129features 2:129
+eroare matched Scale:0.018667
+eroare matched Orientation:0.015978
+eroare matched Location1:0.049347
+eroare matched Location2:0.072171
+eroare matched Metric:63.1643
+surfpoints count129-129
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.09 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -129| =0 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+errorZ:19.747 errorZ2:7.99
+eroare features:0.0018764features 1:129features 2:133
+eroare matched Scale:0.0093333
+eroare matched Orientation:0.010946
+eroare matched Location1:0.034657
+eroare matched Location2:0.047828
+eroare matched Metric:44.9918
+surfpoints count129-133
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=7.99 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -133| =4 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:26.9603 errorZ2:11.1
+eroare features:0.0017483features 1:129features 2:141
+eroare matched Scale:0.010667
+eroare matched Orientation:0.0078637
+eroare matched Location1:0.03208
+eroare matched Location2:0.05631
+eroare matched Metric:49.1872
+surfpoints count129-141
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=11.1 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -141| =12 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+errorZ:0.30637 errorZ2:0.13
+eroare features:0.0013086features 1:129features 2:131
+eroare matched Scale:0.02
+eroare matched Orientation:0.014996
+eroare matched Location1:0.045423
+eroare matched Location2:0.066204
+eroare matched Metric:55.8368
+surfpoints count129-131
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.13 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -131| =2 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.36265 errorZ2:0.16
+eroare features:0.0021206features 1:129features 2:131
+eroare matched Scale:0.016
+eroare matched Orientation:0.012433
+eroare matched Location1:0.043361
+eroare matched Location2:0.065211
+eroare matched Metric:54.5198
+surfpoints count129-131
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.16 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -131| =2 vs prag=50
+in regula
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 227) 
+errorZ:1.3903 errorZ2:0.65
+eroare features:0.0016418features 1:129features 2:119
+eroare matched Scale:0.036
+eroare matched Orientation:0.086266
+eroare matched Location1:0.072291
+eroare matched Location2:0.096395
+eroare matched Metric:182.7671
+surfpoints count129-119
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.65 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -119| =10 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:6.7233 errorZ2:3.07
+eroare features:0.0016387features 1:129features 2:112
+eroare matched Scale:0.022667
+eroare matched Orientation:0.084337
+eroare matched Location1:0.076704
+eroare matched Location2:0.11085
+eroare matched Metric:394.7015
+surfpoints count129-112
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=3.07 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -112| =17 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 281) 
+errorZ:1.3903 errorZ2:0.65
+eroare features:0.0016418features 1:129features 2:119
+eroare matched Scale:0.036
+eroare matched Orientation:0.086266
+eroare matched Location1:0.072291
+eroare matched Location2:0.096395
+eroare matched Metric:182.7671
+surfpoints count129-119
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.65 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -119| =10 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:6.7233 errorZ2:3.07
+eroare features:0.0016387features 1:129features 2:112
+eroare matched Scale:0.022667
+eroare matched Orientation:0.084337
+eroare matched Location1:0.076704
+eroare matched Location2:0.11085
+eroare matched Metric:394.7015
+surfpoints count129-112
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=3.07 vs prag=0.31> || scor_numar_caracteristici_locale: |129 -112| =17 vs prag=50
+fals
+    "Obiect=Lighthouse"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:98features 2:98
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count98-98
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -98| =0 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.26256 errorZ2:0.08
+eroare features:0.0015018features 1:98features 2:99
+eroare matched Scale:0.010667
+eroare matched Orientation:0.01377
+eroare matched Location1:0.042232
+eroare matched Location2:0.038145
+eroare matched Metric:56.6692
+surfpoints count98-99
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.08 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -99| =1 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+errorZ:1.7573 errorZ2:0.74
+eroare features:0.0017748features 1:98features 2:105
+eroare matched Scale:0.0053333
+eroare matched Orientation:0.0040897
+eroare matched Location1:0.0048226
+eroare matched Location2:0.007938
+eroare matched Metric:5.4889
+surfpoints count98-105
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.74 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -105| =7 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:1.2499 errorZ2:0.59
+eroare features:0.0016456features 1:98features 2:107
+eroare matched Scale:0
+eroare matched Orientation:2.6827e-05
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count98-107
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.59 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -107| =9 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+errorZ:0.18833 errorZ2:0.08
+eroare features:0.0012081features 1:98features 2:105
+eroare matched Scale:0.0066667
+eroare matched Orientation:0.13451
+eroare matched Location1:0.032454
+eroare matched Location2:0.032446
+eroare matched Metric:43.2336
+surfpoints count98-105
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.08 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -105| =7 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.57984 errorZ2:0.15
+eroare features:0.0014483features 1:98features 2:97
+eroare matched Scale:0.018667
+eroare matched Orientation:0.012226
+eroare matched Location1:0.03908
+eroare matched Location2:0.052015
+eroare matched Metric:48.0219
+surfpoints count98-97
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.15 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -97| =1 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+errorZ:4.6679 errorZ2:1.48
+eroare features:0.0015282features 1:98features 2:96
+eroare matched Scale:0.016
+eroare matched Orientation:0.015333
+eroare matched Location1:0.051739
+eroare matched Location2:0.060754
+eroare matched Metric:84.0087
+surfpoints count98-96
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.48 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -96| =2 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:8.3478 errorZ2:2.78
+eroare features:0.0016092features 1:98features 2:92
+eroare matched Scale:0.028
+eroare matched Orientation:0.020232
+eroare matched Location1:0.055002
+eroare matched Location2:0.094684
+eroare matched Metric:187.4021
+surfpoints count98-92
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=2.78 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -92| =6 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+errorZ:4.6679 errorZ2:1.48
+eroare features:0.0015282features 1:98features 2:96
+eroare matched Scale:0.016
+eroare matched Orientation:0.015333
+eroare matched Location1:0.051739
+eroare matched Location2:0.060754
+eroare matched Metric:84.0087
+surfpoints count98-96
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.48 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -96| =2 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:8.3478 errorZ2:2.78
+eroare features:0.0016092features 1:98features 2:92
+eroare matched Scale:0.028
+eroare matched Orientation:0.020232
+eroare matched Location1:0.055002
+eroare matched Location2:0.094684
+eroare matched Metric:187.4021
+surfpoints count98-92
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=2.78 vs prag=0.11> || scor_numar_caracteristici_locale: |98 -92| =6 vs prag=50
+fals
+    "Obiect=Pisica"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:154features 2:154
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count154-154
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -154| =0 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.34367 errorZ2:0.15
+eroare features:0.0021006features 1:154features 2:153
+eroare matched Scale:0.012
+eroare matched Orientation:0.14096
+eroare matched Location1:0.049823
+eroare matched Location2:0.044705
+eroare matched Metric:75.4832
+surfpoints count154-153
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.15 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -153| =1 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+errorZ:4.2589 errorZ2:1.53
+eroare features:0.0023937features 1:154features 2:156
+eroare matched Scale:0.037333
+eroare matched Orientation:0.080896
+eroare matched Location1:0.13074
+eroare matched Location2:0.15136
+eroare matched Metric:273.8008
+surfpoints count154-156
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.53 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -156| =2 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:6.7025 errorZ2:2.24
+eroare features:0.0022068features 1:154features 2:160
+eroare matched Scale:0.037333
+eroare matched Orientation:0.08454
+eroare matched Location1:0.11378
+eroare matched Location2:0.091016
+eroare matched Metric:122.7137
+surfpoints count154-160
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=2.24 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -160| =6 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+errorZ:0.21562 errorZ2:0.12
+eroare features:0.002215features 1:154features 2:153
+eroare matched Scale:0.018667
+eroare matched Orientation:0.017549
+eroare matched Location1:0.075143
+eroare matched Location2:0.062752
+eroare matched Metric:67.859
+surfpoints count154-153
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.12 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -153| =1 vs prag=50
+in regula
+=====================================test2=====================================
+errorZ:0.43125 errorZ2:0.15
+eroare features:0.0022279features 1:154features 2:154
+eroare matched Scale:0.018667
+eroare matched Orientation:0.082432
+eroare matched Location1:0.093994
+eroare matched Location2:0.07867
+eroare matched Metric:101.5307
+surfpoints count154-154
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.15 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -154| =0 vs prag=50
+in regula
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+errorZ:3.7094 errorZ2:1.41
+eroare features:0.0018309features 1:154features 2:151
+eroare matched Scale:0.025333
+eroare matched Orientation:0.016881
+eroare matched Location1:0.1182
+eroare matched Location2:0.073455
+eroare matched Metric:188.482
+surfpoints count154-151
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.41 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -151| =3 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:11.6936 errorZ2:4.13
+eroare features:0.0019036features 1:154features 2:149
+eroare matched Scale:0.034667
+eroare matched Orientation:0.024079
+eroare matched Location1:0.14586
+eroare matched Location2:0.12322
+eroare matched Metric:391.3775
+surfpoints count154-149
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=4.13 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -149| =5 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+errorZ:3.7094 errorZ2:1.41
+eroare features:0.0018309features 1:154features 2:151
+eroare matched Scale:0.025333
+eroare matched Orientation:0.016881
+eroare matched Location1:0.1182
+eroare matched Location2:0.073455
+eroare matched Metric:188.482
+surfpoints count154-151
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.41 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -151| =3 vs prag=50
+fals
+=====================================test2=====================================
+errorZ:11.6936 errorZ2:4.13
+eroare features:0.0019036features 1:154features 2:149
+eroare matched Scale:0.034667
+eroare matched Orientation:0.024079
+eroare matched Location1:0.14586
+eroare matched Location2:0.12322
+eroare matched Metric:391.3775
+surfpoints count154-149
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=4.13 vs prag=0.33> || scor_numar_caracteristici_locale: |154 -149| =5 vs prag=50
+fals
+    "Obiect=Pylon"
+
+=====================
+=====================
+Test compresie JPEG 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 66) 
+errorZ:0 errorZ2:0
+eroare features:0features 1:58features 2:58
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count58-58
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -58| =0 vs prag=50
+in regula
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 66) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 66) 
+errorZ:0.1095 errorZ2:0.04
+eroare features:0.00017261features 1:58features 2:61
+eroare matched Scale:0.004
+eroare matched Orientation:0.005116
+eroare matched Location1:0.036182
+eroare matched Location2:0.27754
+eroare matched Metric:22.9894
+surfpoints count58-61
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.04 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -61| =3 vs prag=50
+in regula
+=====================
+=====================
+Test falsificare 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 118) 
+errorZ:55.5184 errorZ2:11.28
+eroare features:0.0003713features 1:58features 2:61
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count58-61
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=11.28 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -61| =3 vs prag=50
+fals
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 118) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 118) 
+errorZ:20.8008 errorZ2:6.09
+eroare features:0.00025506features 1:58features 2:67
+eroare matched Scale:0
+eroare matched Orientation:3.5207e-05
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count58-67
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=6.09 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -67| =9 vs prag=50
+fals
+=====================
+=====================
+Test resize 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 172) 
+errorZ:0.29581 errorZ2:0.05
+eroare features:0.0002318features 1:58features 2:55
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.004763
+eroare matched Location1:0.0068643
+eroare matched Location2:0.0082264
+eroare matched Metric:8.2651
+surfpoints count58-55
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.05 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -55| =3 vs prag=50
+in regula
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 85)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 86)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 87)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 88)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 89)
+  In main (line 172) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 90)
+  In main (line 172) 
+errorZ:0.17783 errorZ2:0.03
+eroare features:0.00021021features 1:58features 2:61
+eroare matched Scale:0.0053333
+eroare matched Orientation:0.009292
+eroare matched Location1:0.018731
+eroare matched Location2:0.019318
+eroare matched Metric:19.7219
+surfpoints count58-61
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.03 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -61| =3 vs prag=50
+in regula
+=====================
+=====================
+Test modificare luminozitate pe plus 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 227) 
+errorZ:3.8613 errorZ2:0.58
+eroare features:3.4586e-05features 1:58features 2:33
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.098657
+eroare matched Location1:0.017898
+eroare matched Location2:0.019404
+eroare matched Metric:175.2545
+surfpoints count58-33
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.58 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -33| =25 vs prag=50
+fals
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 227) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 227) 
+errorZ:8.7509 errorZ2:1.37
+eroare features:2.6395e-05features 1:58features 2:20
+eroare matched Scale:0.0013333
+eroare matched Orientation:0.09753
+eroare matched Location1:0.074144
+eroare matched Location2:0.010364
+eroare matched Metric:166.9267
+surfpoints count58-20
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.37 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -20| =38 vs prag=50
+fals
+=====================
+=====================
+Test modificare luminozitate pe minus 
+=====================================test1=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 281) 
+errorZ:3.8613 errorZ2:0.58
+eroare features:3.4586e-05features 1:58features 2:33
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.098657
+eroare matched Location1:0.017898
+eroare matched Location2:0.019404
+eroare matched Metric:175.2545
+surfpoints count58-33
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=0.58 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -33| =25 vs prag=50
+fals
+=====================================test2=====================================
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 59)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 60)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 61)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 62)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 63)
+  In main (line 281) 
+Warning: Integer operands are required for colon operator when used as index. 
+> In doMain (line 64)
+  In main (line 281) 
+errorZ:8.7509 errorZ2:1.37
+eroare features:2.6395e-05features 1:58features 2:20
+eroare matched Scale:0.0013333
+eroare matched Orientation:0.09753
+eroare matched Location1:0.074144
+eroare matched Location2:0.010364
+eroare matched Metric:166.9267
+surfpoints count58-20
+ 
+rezultat. scor_caracteristici_generale: <val_curenta=1.37 vs prag=0.1> || scor_numar_caracteristici_locale: |58 -20| =38 vs prag=50
+fals

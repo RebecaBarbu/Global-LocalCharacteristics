@@ -1,0 +1,296 @@
+==============================================================================================================
+Car
+
+=====================================test1=====================================
+errorZ:0.29723 errorZ2:0.16
+eroare features:0.0023628features 1:195features 2:194
+eroare matched Scale:0.025333
+eroare matched Orientation:0.14163
+eroare matched Location1:0.095411
+eroare matched Location2:0.074497
+eroare matched Metric:103.6922
+surfpoints count195-194
+=====================================test2=====================================
+errorZ:0.3199 errorZ2:0.12
+eroare features:0.0027135features 1:195features 2:199
+eroare matched Scale:0.030667
+eroare matched Orientation:0.090554
+eroare matched Location1:0.28319
+eroare matched Location2:0.12534
+eroare matched Metric:132.4888
+surfpoints count195-199
+=====================================test3=====================================
+errorZ:0.37947 errorZ2:0.13
+eroare features:0.0029842features 1:195features 2:200
+eroare matched Scale:0.045333
+eroare matched Orientation:0.08684
+eroare matched Location1:0.093706
+eroare matched Location2:0.15182
+eroare matched Metric:120.1666
+surfpoints count195-200
+=====================================test4=====================================
+errorZ:0.30025 errorZ2:0.09
+eroare features:0.0027455features 1:195features 2:196
+eroare matched Scale:0.032
+eroare matched Orientation:0.024182
+eroare matched Location1:0.098973
+eroare matched Location2:0.13432
+eroare matched Metric:117.2559
+surfpoints count195-196
+=====================================test5=====================================
+errorZ:0.094036 errorZ2:0.06
+eroare features:0.0028752features 1:195features 2:197
+eroare matched Scale:0.02
+eroare matched Orientation:0.078597
+eroare matched Location1:0.069385
+eroare matched Location2:0.066833
+eroare matched Metric:104.9041
+surfpoints count195-197
+
+
+================================================================================================================
+Flowers
+
+=====================================test1=====================================
+errorZ:0.6046 errorZ2:0.16
+eroare features:0.0047583features 1:308features 2:310
+eroare matched Scale:0.029333
+eroare matched Orientation:0.035511
+eroare matched Location1:0.10693
+eroare matched Location2:0.10931
+eroare matched Metric:163.5234
+surfpoints count308-310
+=====================================test2=====================================
+errorZ:0.32346 errorZ2:0.11
+eroare features:0.0047071features 1:308features 2:304
+eroare matched Scale:0.042667
+eroare matched Orientation:0.057751
+eroare matched Location1:0.16633
+eroare matched Location2:0.18229
+eroare matched Metric:276.9834
+surfpoints count308-304
+=====================================test3=====================================
+errorZ:0.24281 errorZ2:0.08
+eroare features:0.0044382features 1:308features 2:308
+eroare matched Scale:0.052
+eroare matched Orientation:0.063984
+eroare matched Location1:0.18341
+eroare matched Location2:0.19242
+eroare matched Metric:242.1143
+surfpoints count308-308
+=====================================test4=====================================
+errorZ:0.15072 errorZ2:0.07
+eroare features:0.0044645features 1:308features 2:309
+eroare matched Scale:0.045333
+eroare matched Orientation:0.066587
+eroare matched Location1:0.19777
+eroare matched Location2:0.18376
+eroare matched Metric:269.0182
+surfpoints count308-309
+=====================================test5=====================================
+errorZ:0.18418 errorZ2:0.08
+eroare features:0.004661features 1:308features 2:311
+eroare matched Scale:0.044
+eroare matched Orientation:0.18159
+eroare matched Location1:0.18276
+eroare matched Location2:0.18437
+eroare matched Metric:247.603
+surfpoints count308-311
+
+================================================================================================
+Lena
+
+errorZ:0.30637 errorZ2:0.13
+eroare features:0.0013086features 1:129features 2:131
+eroare matched Scale:0.02
+eroare matched Orientation:0.014996
+eroare matched Location1:0.045423
+eroare matched Location2:0.066204
+eroare matched Metric:55.8368
+surfpoints count129-131
+=====================================test2=====================================
+errorZ:0.36265 errorZ2:0.16
+eroare features:0.0021206features 1:129features 2:131
+eroare matched Scale:0.016
+eroare matched Orientation:0.012433
+eroare matched Location1:0.043361
+eroare matched Location2:0.065211
+eroare matched Metric:54.5198
+surfpoints count129-131
+=====================================test3=====================================
+errorZ:0.28206 errorZ2:0.12
+eroare features:0.0018602features 1:129features 2:136
+eroare matched Scale:0.02
+eroare matched Orientation:0.015406
+eroare matched Location1:0.042528
+eroare matched Location2:0.070688
+eroare matched Metric:53.5567
+surfpoints count129-136
+=====================================test4=====================================
+errorZ:0.16183 errorZ2:0.08
+eroare features:0.0020476features 1:129features 2:130
+eroare matched Scale:0.017333
+eroare matched Orientation:0.015029
+eroare matched Location1:0.042943
+eroare matched Location2:0.060974
+eroare matched Metric:55.017
+surfpoints count129-130
+=====================================test5=====================================
+errorZ:0.2159 errorZ2:0.1
+eroare features:0.0018065features 1:129features 2:129
+eroare matched Scale:0.02
+eroare matched Orientation:0.012201
+eroare matched Location1:0.047423
+eroare matched Location2:0.077347
+eroare matched Metric:49.6143
+surfpoints count129-129
+
+=====================================================================================================
+Lighthouse
+
+=====================================test1=====================================
+errorZ:0.18833 errorZ2:0.08
+eroare features:0.0012081features 1:98features 2:105
+eroare matched Scale:0.0066667
+eroare matched Orientation:0.13451
+eroare matched Location1:0.032454
+eroare matched Location2:0.032446
+eroare matched Metric:43.2336
+surfpoints count98-105
+=====================================test2=====================================
+errorZ:0.57984 errorZ2:0.15
+eroare features:0.0014483features 1:98features 2:97
+eroare matched Scale:0.018667
+eroare matched Orientation:0.012226
+eroare matched Location1:0.03908
+eroare matched Location2:0.052015
+eroare matched Metric:48.0219
+surfpoints count98-97
+=====================================test3=====================================
+errorZ:0.30244 errorZ2:0.07
+eroare features:0.0016731features 1:98features 2:96
+eroare matched Scale:0.004
+eroare matched Orientation:0.011101
+eroare matched Location1:0.029902
+eroare matched Location2:0.034359
+eroare matched Metric:48.0125
+surfpoints count98-96
+=====================================test4=====================================
+errorZ:0.38132 errorZ2:0.09
+eroare features:0.001779features 1:98features 2:99
+eroare matched Scale:0.0093333
+eroare matched Orientation:0.012897
+eroare matched Location1:0.034446
+eroare matched Location2:0.044006
+eroare matched Metric:45.4209
+surfpoints count98-99
+=====================================test5=====================================
+errorZ:0.21308 errorZ2:0.06
+eroare features:0.00090538features 1:98features 2:96
+eroare matched Scale:0.004
+eroare matched Orientation:0.0055334
+eroare matched Location1:0.026794
+eroare matched Location2:0.039741
+eroare matched Metric:31.7673
+surfpoints count98-96
+
+===================================================================================================
+Pisica
+
+Warning: Name is nonexistent or not a directory: C:\Users\Elian\Desktop\scm\metoda 1\images\Resized\Pylon 
+=====================================test1=====================================
+errorZ:0.21562 errorZ2:0.12
+eroare features:0.002215features 1:154features 2:153
+eroare matched Scale:0.018667
+eroare matched Orientation:0.017549
+eroare matched Location1:0.075143
+eroare matched Location2:0.062752
+eroare matched Metric:67.859
+surfpoints count154-153
+=====================================test2=====================================
+errorZ:0.43125 errorZ2:0.15
+eroare features:0.0022279features 1:154features 2:154
+eroare matched Scale:0.018667
+eroare matched Orientation:0.082432
+eroare matched Location1:0.093994
+eroare matched Location2:0.07867
+eroare matched Metric:101.5307
+surfpoints count154-154
+=====================================test3=====================================
+errorZ:0.34828 errorZ2:0.13
+eroare features:0.0024749features 1:154features 2:154
+eroare matched Scale:0.013333
+eroare matched Orientation:0.017361
+eroare matched Location1:0.073358
+eroare matched Location2:0.063243
+eroare matched Metric:77.8292
+surfpoints count154-154
+=====================================test4=====================================
+errorZ:0.28451 errorZ2:0.1
+eroare features:0.0012953features 1:154features 2:148
+eroare matched Scale:0.004
+eroare matched Orientation:0.0094242
+eroare matched Location1:0.039585
+eroare matched Location2:0.031368
+eroare matched Metric:51.6333
+surfpoints count154-148
+=====================================test5=====================================
+errorZ:0.1096 errorZ2:0.05
+eroare features:0.0017361features 1:154features 2:150
+eroare matched Scale:0.0066667
+eroare matched Orientation:0.077316
+eroare matched Location1:0.062869
+eroare matched Location2:0.047043
+eroare matched Metric:60.8726
+surfpoints count154-150
+
+========================================================================================================================
+Pylon
+
+=====================================test1=====================================
+errorZ:0.29581 errorZ2:0.05
+eroare features:0.0002318features 1:58features 2:55
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.004763
+eroare matched Location1:0.0068643
+eroare matched Location2:0.0082264
+eroare matched Metric:8.2651
+surfpoints count58-55
+=====================================test2=====================================
+errorZ:0.17783 errorZ2:0.03
+eroare features:0.00021021features 1:58features 2:61
+eroare matched Scale:0.0053333
+eroare matched Orientation:0.009292
+eroare matched Location1:0.018731
+eroare matched Location2:0.019318
+eroare matched Metric:19.7219
+surfpoints count58-61
+=====================================test3=====================================
+errorZ:0.022918 errorZ2:0.02
+eroare features:0.0001131features 1:58features 2:58
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.0055669
+eroare matched Location1:0.016754
+eroare matched Location2:0.01253
+eroare matched Metric:15.702
+surfpoints count58-58
+=====================================test4=====================================
+errorZ:0.026313 errorZ2:0.03
+eroare features:0.00016433features 1:58features 2:60
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.0086829
+eroare matched Location1:0.017156
+eroare matched Location2:0.012579
+eroare matched Metric:15.6959
+surfpoints count58-60
+=====================================test5=====================================
+errorZ:0.19268 errorZ2:0.03
+eroare features:0.00023611features 1:58features 2:60
+eroare matched Scale:0.0026667
+eroare matched Orientation:0.008358
+eroare matched Location1:0.019315
+eroare matched Location2:0.015898
+eroare matched Metric:17.8603
+surfpoints count58-60
+
+=================================================================================================================

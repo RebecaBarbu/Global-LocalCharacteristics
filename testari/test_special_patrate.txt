@@ -1,0 +1,174 @@
+===========================================================================================================
+Patrat 1
+
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:9features 2:9
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count9-9
+=====================================test2=====================================
+errorZ:0.05806 errorZ2:0.04
+eroare features:3.7446e-07features 1:9features 2:8
+eroare matched Scale:0
+eroare matched Orientation:7.8166e-05
+eroare matched Location1:0.0024781
+eroare matched Location2:0.0011806
+eroare matched Metric:5.1385
+surfpoints count9-8
+=====================================test3=====================================
+errorZ:0.1105 errorZ2:0.02
+eroare features:7.4893e-07features 1:9features 2:8
+eroare matched Scale:0
+eroare matched Orientation:6.8736e-05
+eroare matched Location1:0.00081963
+eroare matched Location2:0.00094864
+eroare matched Metric:4.1999
+surfpoints count9-8
+=====================================test4=====================================
+errorZ:0.10713 errorZ2:0.02
+eroare features:6.173e-07features 1:9features 2:9
+eroare matched Scale:0
+eroare matched Orientation:0.00014687
+eroare matched Location1:0.0039118
+eroare matched Location2:0.00033966
+eroare matched Metric:17.9002
+surfpoints count9-9
+=====================================test5=====================================
+errorZ:0.07117 errorZ2:0.05
+eroare features:3.7446e-07features 1:9features 2:7
+eroare matched Scale:0
+eroare matched Orientation:0.00011181
+eroare matched Location1:0.0040273
+eroare matched Location2:0.00086906
+eroare matched Metric:8.3252
+surfpoints count9-7
+=====================================test6=====================================
+errorZ:0.24647 errorZ2:0.07
+eroare features:0features 1:9features 2:6
+eroare matched Scale:0
+eroare matched Orientation:3.8379e-05
+eroare matched Location1:0.0033176
+eroare matched Location2:0.0012846
+eroare matched Metric:2.8868
+surfpoints count9-6
+
+=====================================================================================================
+Patrat 2
+
+=====================================test1=====================================
+errorZ:0 errorZ2:0
+eroare features:0features 1:8features 2:8
+eroare matched Scale:0
+eroare matched Orientation:0
+eroare matched Location1:0
+eroare matched Location2:0
+eroare matched Metric:0
+surfpoints count8-8
+=====================================test2=====================================
+errorZ:0.030744 errorZ2:0.03
+eroare features:2.593e-06features 1:8features 2:7
+eroare matched Scale:0.013333
+eroare matched Orientation:0.00028008
+eroare matched Location1:0.021218
+eroare matched Location2:0.020806
+eroare matched Metric:4.2574
+surfpoints count8-7
+=====================================test3=====================================
+errorZ:0.030744 errorZ2:0.03
+eroare features:2.3708e-07features 1:8features 2:8
+eroare matched Scale:0
+eroare matched Orientation:0.01571
+eroare matched Location1:0.0017937
+eroare matched Location2:0.67209
+eroare matched Metric:4.0871
+surfpoints count8-8
+=====================================test4=====================================
+errorZ:0.1106 errorZ2:0.02
+eroare features:1.2965e-06features 1:8features 2:6
+eroare matched Scale:0
+eroare matched Orientation:6.8958e-05
+eroare matched Location1:0.00086288
+eroare matched Location2:0.00049889
+eroare matched Metric:3.8568
+surfpoints count8-6
+=====================================test5=====================================
+errorZ:0.21933 errorZ2:0.05
+eroare features:0features 1:8features 2:5
+eroare matched Scale:0.025333
+eroare matched Orientation:0.047123
+eroare matched Location1:0.041282
+eroare matched Location2:0.71314
+eroare matched Metric:8.7378
+surfpoints count8-5
+=====================================test6=====================================
+errorZ:0.13647 errorZ2:0.05
+eroare features:1.5336e-06features 1:8features 2:12
+eroare matched Scale:0
+eroare matched Orientation:0.015712
+eroare matched Location1:0.0020821
+eroare matched Location2:0.67025
+eroare matched Metric:5.5051
+surfpoints count8-12
+
+======================================================================================================
+patrat 1 vs patrat 2
+
+
+=====================================test1=====================================
+errorZ:0.26408 errorZ2:0.08
+eroare features:7.4893e-07features 1:9features 2:8
+eroare matched Scale:0.026667
+eroare matched Orientation:0.00031309
+eroare matched Location1:0.044332
+eroare matched Location2:0.040473
+eroare matched Metric:239.1515
+surfpoints count9-8
+=====================================test2=====================================
+errorZ:0.20202 errorZ2:0.03
+eroare features:0features 1:8features 2:7
+eroare matched Scale:0
+eroare matched Orientation:6.6533e-05
+eroare matched Location1:0.0022773
+eroare matched Location2:0.0012006
+eroare matched Metric:195.7016
+surfpoints count8-7
+=====================================test3=====================================
+errorZ:0.37076 errorZ2:0.09
+eroare features:7.931e-07features 1:8features 2:8
+eroare matched Scale:0.026667
+eroare matched Orientation:0.00018132
+eroare matched Location1:0.043097
+eroare matched Location2:0.040829
+eroare matched Metric:195.2587
+surfpoints count8-8
+=====================================test4=====================================
+errorZ:0.23336 errorZ2:0.06
+eroare features:0features 1:9features 2:6
+eroare matched Scale:0.02
+eroare matched Orientation:0.015671
+eroare matched Location1:1.0985
+eroare matched Location2:0.029814
+eroare matched Metric:190.5058
+surfpoints count9-6
+=====================================test5=====================================
+errorZ:0.026994 errorZ2:0.02
+eroare features:0features 1:7features 2:5
+eroare matched Scale:0.010667
+eroare matched Orientation:0.046845
+eroare matched Location1:1.0738
+eroare matched Location2:1.4854
+eroare matched Metric:205.0782
+surfpoints count7-5
+=====================================test6=====================================
+errorZ:0.34333 errorZ2:0.08
+eroare features:7.1324e-07features 1:6features 2:12
+eroare matched Scale:0
+eroare matched Orientation:2.1305e-05
+eroare matched Location1:0.0003109
+eroare matched Location2:0.00016228
+eroare matched Metric:49.2114
+surfpoints count6-12
